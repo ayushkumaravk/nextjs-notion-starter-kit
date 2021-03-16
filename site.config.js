@@ -17,8 +17,8 @@ module.exports = {
   socialImageSubtitle: '',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  linkedin: 'fisch2',
+  twitter: 'ayushkumar',
+  linkedin: 'ayushkumar',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
